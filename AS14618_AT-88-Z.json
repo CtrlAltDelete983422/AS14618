@@ -1,0 +1,335 @@
+[
+    {
+        "prefix": "3.5.0.0/24",
+        "ip": "3.5.0.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.2.0/24",
+        "ip": "3.5.2.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.3.0/24",
+        "ip": "3.5.3.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.4.0/24",
+        "ip": "3.5.4.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.5.0/24",
+        "ip": "3.5.5.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.6.0/24",
+        "ip": "3.5.6.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.7.0/24",
+        "ip": "3.5.7.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.8.0/24",
+        "ip": "3.5.8.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.10.0/24",
+        "ip": "3.5.10.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.11.0/24",
+        "ip": "3.5.11.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.16.0/24",
+        "ip": "3.5.16.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.18.0/24",
+        "ip": "3.5.18.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.19.0/24",
+        "ip": "3.5.19.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.20.0/24",
+        "ip": "3.5.20.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "3.5.21.0/24",
+        "ip": "3.5.21.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "15.177.0.0/21",
+        "ip": "15.177.0.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "15.177.64.0/23",
+        "ip": "15.177.64.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "15.193.6.0/24",
+        "ip": "15.193.6.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "18.204.0.0/14",
+        "ip": "18.204.0.0",
+        "cidr": 14,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "18.208.0.0/13",
+        "ip": "18.208.0.0",
+        "cidr": 13,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "18.232.0.0/14",
+        "ip": "18.232.0.0",
+        "cidr": 14,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "34.192.0.0/12",
+        "ip": "34.192.0.0",
+        "cidr": 12,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "34.224.0.0/12",
+        "ip": "34.224.0.0",
+        "cidr": 12,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "35.168.0.0/13",
+        "ip": "35.168.0.0",
+        "cidr": 13,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.0.0.0/15",
+        "ip": "52.0.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.2.0.0/15",
+        "ip": "52.2.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.4.0.0/14",
+        "ip": "52.4.0.0",
+        "cidr": 14,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.20.0.0/14",
+        "ip": "52.20.0.0",
+        "cidr": 14,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.44.0.0/15",
+        "ip": "52.44.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.54.0.0/15",
+        "ip": "52.54.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.70.0.0/15",
+        "ip": "52.70.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.72.0.0/15",
+        "ip": "52.72.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.86.0.0/15",
+        "ip": "52.86.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.90.0.0/15",
+        "ip": "52.90.0.0",
+        "cidr": 15,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.95.231.0/24",
+        "ip": "52.95.231.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.95.245.0/24",
+        "ip": "52.95.245.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    },
+    {
+        "prefix": "52.200.0.0/13",
+        "ip": "52.200.0.0",
+        "cidr": 13,
+        "roa_status": "None",
+        "name": "AT-88-Z",
+        "description": "Amazon Technologies Inc.",
+        "country_code": "US"
+    }
+]
